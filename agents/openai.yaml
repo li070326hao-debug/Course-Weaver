@@ -1,0 +1,7 @@
+interface:
+  display_name: "Course Weaver"
+  short_description: "整合课程资料并生成完整可复习笔记"
+  default_prompt: "使用 $course-weaver 整合我提供的课程资料，先建立知识点清单，再生成并核验完整课程笔记。"
+
+policy:
+  allow_implicit_invocation: true
